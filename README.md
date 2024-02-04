@@ -1,12 +1,15 @@
 # Octoprint_francais
-Voici un fichier zip pour la traduction française d'OctoPrint (V1.9.3 et +).
 
-Dernière mise à jour : 4-02-2024
+Voici un fichier zip pour la traduction française d'OctoPrint V1.10.1 (actuellement en release candidate 1) et probablement +.
 
-Basé sur les fichiers disponibles sur transiflex.
+Dernière mise à jour : 04-02-2024
 
-## Erreurs connues : 
+Basé sur les fichiers disponibles sur Transifex.
 
-- En cours de ressencement
+## Pour contribuer à la traduction d'OctoPrint
 
-**N'hésitez pas à me faire par de vos trouvailles**
+Vous trouverez ici les chaines de caractères à traduire : https://explore.transifex.com/octoprint/octoprint/ \
+Et ici la documentation pour créer un pack de langue : https://community.octoprint.org/t/translating-octoprint/21144
+
+**N'hésitez pas à demander de l'aide pour créer un pack de langue ou à soummetre vos pull requests pour mettre à jour ce repo.**
+
