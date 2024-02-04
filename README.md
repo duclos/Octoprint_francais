@@ -6,3 +6,7 @@ Dernière mise à jour : 4-02-2024
 Basé sur les fichiers disponibles sur transiflex.
 
 ## Erreurs connues : 
+
+- En cours de ressencement
+
+**N'hésitez pas à me faire par de vos trouvailles**
