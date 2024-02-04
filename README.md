@@ -1,6 +1,6 @@
 # Octoprint_francais
 
-Voici un fichier zip pour la traduction française d'OctoPrint V1.10.1 (actuellement en release candidate 1) et probablement +.
+Voici un fichier zip pour la traduction française d'OctoPrint V1.10 (actuellement en release candidate 1) et probablement +.
 
 Dernière mise à jour : 04-02-2024
 
