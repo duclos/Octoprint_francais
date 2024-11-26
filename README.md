@@ -11,5 +11,5 @@ Basé sur les fichiers disponibles sur Transifex.
 Vous trouverez ici les chaines de caractères à traduire : https://explore.transifex.com/octoprint/octoprint/ \
 Et ici la documentation pour créer un pack de langue : https://community.octoprint.org/t/translating-octoprint/21144
 
-**N'hésitez pas à demander de l'aide pour créer un pack de langue ou à soummetre vos pull requests pour mettre à jour ce repo.**
+**N'hésitez pas à demander de l'aide pour créer un pack de langue ou à soumettre vos pull requests pour mettre à jour ce repo.**
 
